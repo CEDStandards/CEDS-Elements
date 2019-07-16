@@ -1,3 +1,5 @@
+![CEDS Elements Logo](/res/CEDS-Elements-Logo-Full-Medium.png "CEDS Elements")
+
 # CEDS Elements 
 The Common Education Data Standards (CEDS) are an education data management initiative whose purpose is to streamline the understanding of data within and across P-20W institutions and sectors. CEDS includes a common vocabulary complete with standard element names, definitions, and option sets. This repository contains all the CEDS elements, definitions, option sets and their definitions, and entities and definitions. Its purpose is to expand that vocabulary to meet the needs of every education stakeholder. The expanded vocabulary is then added to the CEDS Integrated Data Store and CEDS Data Warehouse as appropriate. 
 

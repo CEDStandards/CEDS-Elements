@@ -18,7 +18,7 @@ To propose any of these changes, the [Use Case Template](/doc/CEDS%20Element%20U
 Adding New Elements – before proposing new elements, the following steps should take place:
 1.	Verify the element does not exist in CEDS under a different name. This can be done by going to the Domain Entity Schema and searching for elements by various domains and entities. This can also be done by going to the Elements search and trying different variations of the element name and possible words that may appear in a definition about the element.
 2.	Check with existing education standards to see if the element exists in their standard. CEDS is committed to using already existing standard elements and definitions when adding to the CEDS standard. If the element you need exists in one or more of those standards, indicate that information in the Use Case. Here are some standards to review:
-     * Access 4 Learning](https://www.a4l.org/default.aspx)
+     * [Access 4 Learning](https://www.a4l.org/default.aspx)
      * [Ed-Fi](https://www.ed-fi.org/)
      * [PESC](https://www.pesc.org/)
 

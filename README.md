@@ -12,7 +12,7 @@ In this repository, there are seven things that can occur:
 6.	A change to an option set description is proposed.
 7.	A change to an option set definition is proposed.
 
-To propose any of these changes, the [Use Case Template]() must be completed. Note that changes to element names and option set codes result in a breaking change to the standard and require solid reasoning for the change. Changes to definitions and descriptions, as  long as they don’t change the existing meaning, are not considered breaking changes. New elements and option sets are also not considered breaking changes.
+To propose any of these changes, the [Use Case Template](/doc/CEDS%20Element%20Use%20Case.docx?raw=true) must be completed. Note that changes to element names and option set codes result in a breaking change to the standard and require solid reasoning for the change. Changes to definitions and descriptions, as  long as they don’t change the existing meaning, are not considered breaking changes. New elements and option sets are also not considered breaking changes.
 
 ### Prerequisites
 Adding New Elements – before proposing new elements, the following steps should take place:

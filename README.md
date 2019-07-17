@@ -1,18 +1,19 @@
 ![CEDS Elements Logo](/res/CEDS-Elements-Logo-Full-Medium.png "CEDS Elements")
 
 # CEDS Elements 
-The Common Education Data Standards (CEDS) are an education data management initiative whose purpose is to streamline the understanding of data within and across P-20W institutions and sectors. CEDS includes a common vocabulary complete with standard element names, definitions, and option sets. This repository contains all the CEDS elements, definitions, option sets and their definitions, and entities and definitions. Its purpose is to expand that vocabulary to meet the needs of every education stakeholder. The expanded vocabulary is then added to the CEDS Integrated Data Store and CEDS Data Warehouse as appropriate. 
+The Common Education Data Standards (CEDS) are an education data management initiative whose purpose is to streamline the understanding of data within and across P-20W institutions and sectors. CEDS includes a common vocabulary complete with standard element names, definitions, and option sets. This repository contains all the CEDS elements, definitions, option sets and their definitions, and entities and definitions. Its purpose is to expand that vocabulary to meet the needs of every education stakeholder. The expanded vocabulary is then added to the CEDS Integrated Data Store and CEDS Data Warehouse as appropriate.
 
 ## Getting Started
 
 In this repository, there are seven things that can occur:
-1.	A new element with definition and possibly option sets is proposed.
-2.	A new option set to be added to an existing element is proposed.
-3.	A change to an element name is proposed.
-4.	A change to an element definition is proposed.
-5.	A change to an option set code is proposed.
-6.	A change to an option set description is proposed.
-7.	A change to an option set definition is proposed.
+
+1. A new element with definition and possibly option sets is proposed.
+2. A new option set to be added to an existing element is proposed.
+3. A change to an element name is proposed.
+4. A change to an element definition is proposed.
+5. A change to an option set code is proposed.
+6. A change to an option set description is proposed.
+7. A change to an option set definition is proposed.
 
 To propose any of these changes, the [Use Case Template](/doc/CEDS%20Element%20Use%20Case.docx?raw=true) must be completed. Note that changes to element names and option set codes result in a breaking change to the standard and require solid reasoning for the change. Changes to definitions and descriptions, as  long as they don’t change the existing meaning, are not considered breaking changes. New elements and option sets are also not considered breaking changes.
 
@@ -30,4 +31,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use a customized version of [Explicit Versioning](https://github.com/exadra37-versioning/explicit-versioning) for versioning.  To keep the various CEDS Open Source projects in alignment with the CEDS Elements, we are replacing the concept of "disruptive" releases with "alignment" releases.  These releases ensure that the data models are in sync with the official, community approved list of CEDS Elements.  For the versions available, see the [tags on this repository](https://github.com/CEDStandards/CEDS-Elements/tags). 
+he CEDS open source community uses a customized version of [Explicit Versioning](https://github.com/exadra37-versioning/explicit-versioning) for versioning.  To keep the various CEDS Open Source projects in alignment with the CEDS Elements, the concept of "disruptive" releases was replaced with "alignment" release.  These releases ensure that the data models are in sync with the official, community approved list of CEDS Elements.  For the versions available, see the [tags on this repository](https://github.com/CEDStandards/CEDS-Elements/tags). 

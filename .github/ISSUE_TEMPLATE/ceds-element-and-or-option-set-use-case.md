@@ -25,8 +25,3 @@ List the proposed element name(s), definition(s), and/or option set(s).
 Provide information related to why these changes/additions are needed.
 
 **Location of Element in the Domain Entity Schema**
-
-**Impact Analysis**
-To be completed by CEDS team. 
-
-**Community Recommendations**

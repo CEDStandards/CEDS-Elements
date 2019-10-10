@@ -31,6 +31,6 @@ Please read see <insert link to code of conduct document> for details on our cod
 **Versioning** 
 Details on what we use for versioning. 
 
-**License**
-This project is licensed under <insert license link here>
+**Licensing**
+This project is licensed under https://github.com/CEDStandards/CEDS-Collaborative-Exchange/blob/master/LICENSE
 

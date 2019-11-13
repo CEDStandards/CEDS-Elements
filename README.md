@@ -5,13 +5,13 @@ Welcome to the CEDS Open Source Community!
 
 The Common Education Data Standards (CEDS) are an education data management initiative whose purpose is to streamline the understanding of data within and across P-20W institutions and sectors. CEDS includes a common vocabulary complete with standard element names, definitions, and option sets. This repository contains all the CEDS elements, definitions, option sets and their definitions, and entities and definitions. Its purpose is to expand that vocabulary to meet the needs of every education stakeholder. The expanded vocabulary is then added to the CEDS Standard and the CEDS Integrated Data Store, as appropriate.
 
-**Getting Started**
+## Getting Started
 CEDS is an evolving standard that continually expands the vocabulary to meet the needs of every education stakeholder. Therefore, in order to add or change an element, a use case that describes the justification for the addition or change must be submitted in GitHub Issues.
 
-**Contributing**
+## Contributing
 Please read [Contributing.md](https://github.com/CEDStandards/CEDS-Elements/blob/master/Contributing.md) for details on the process for submitting use cases and pull requests.
 
-**Versioning** 
+## Versioning 
 The CEDS open source community uses a customized version of Explicit Versioning. To keep the various CEDS open source projects in alignment with the CEDS Elements, the concept of "disruptive" releases has been replaced with "alignment" releases. These releases ensure that the data models are in sync with the official, CEDS community approved list of CEDS Elements. For the versions available, see the tags on this repository.
 
 Here is an example of how explicit versioning will occur.

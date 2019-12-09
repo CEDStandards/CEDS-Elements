@@ -9,7 +9,7 @@ The Common Education Data Standards (CEDS) are an education data management init
 CEDS is an evolving standard that continually expands the vocabulary to meet the needs of every education stakeholder. Therefore, in order to add or change an element, a use case that describes the justification for the addition or change must be submitted in GitHub Issues.
 
 ## Submitting a Use Case
-Use cases may be submitted through the [Issues] tab(https://github.com/CEDStandards/CEDS-Elements/issues) by clicking on **New Issue** and then **Get Started** which is located next to **CEDS Element and/or Option Set Use Case**.
+Use cases may be submitted through the [Issues](https://github.com/CEDStandards/CEDS-Elements/issues) tab by clicking on **New Issue** and then **Get Started** which is located next to **CEDS Element and/or Option Set Use Case**.
 
 ## Contributing
 Please read [Contributing.md](https://github.com/CEDStandards/CEDS-Elements/blob/master/Contributing.md) for details on the process for submitting pull requests.

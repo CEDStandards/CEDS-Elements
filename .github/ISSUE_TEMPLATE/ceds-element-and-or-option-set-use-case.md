@@ -13,6 +13,8 @@ This is for capturing needs not currently supported by the CEDS model.  Please d
 
 **Authoring Organization(s)**
 
+**Email address**
+
 **Use Case Title**
 Provide a concise description that defines the use case.
 

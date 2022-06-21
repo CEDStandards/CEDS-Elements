@@ -1,5 +1,5 @@
 # Contributing
-Contributions are welcome from the community. For questions and discussion threads see the CEDS [CEDS Community of Practice website]( https://ceds.grads360.org/#program).
+Contributions are welcome from the community. For questions and discussion threads see the CEDS [CEDS Community of Practice website](https://ceds.communities.ed.gov/#program).
 
 ## Submitting Code Changes
 Use [GitHub Issues](https://github.com/CEDStandards/CEDS-Elements/issues) to submit a bug fix or enhancement to the CEDS Elements. 

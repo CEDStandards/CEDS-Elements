@@ -3,8 +3,8 @@
 # CEDS DES - Domains and Entities
 The following defines the Domain Entity Schema top level **domains** and 2nd tier **entities**. Please see separate documentation for the definitions of entities (tables) in the Integrated Data Store (IDS).
 
-## Early Learning (EL)
-Early Learning (EL) is the CEDS domain on the stage in human development from birth through the early school years (often defined as birth to age 8), during which significant social, emotional, cognitive, language, psychological, and physical development occurs.
+## Early Learning 
+Early Learning is the CEDS domain on the stage in human development from birth through the early school years (often defined as birth to age 8), during which significant social, emotional, cognitive, language, psychological, and physical development occurs.
 
 | *Entity*               | *Definition*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

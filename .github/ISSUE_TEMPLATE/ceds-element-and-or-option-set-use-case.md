@@ -23,5 +23,3 @@ List the proposed element name(s), definition(s), and/or option set(s).
 
 **Use Case Background**
 Provide information related to why these changes/additions are needed.
-
-**Location of Element in the Domain Entity Schema**
